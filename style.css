@@ -368,7 +368,7 @@ section .button button:hover{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-} */
+} 
 .services .boxes .box{
   margin: 20px 0;
   width: calc(100% / 3 - 20px);
