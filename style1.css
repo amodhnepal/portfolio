@@ -271,7 +271,7 @@ section .button button:hover{
 
  /* My Skills CSS */
  .skills{
-   background: #F0F8FF;
+   background: #197fd7b1;
  }
  .skills .content{
    padding: 40px 0;
@@ -338,19 +338,19 @@ section .button button:hover{
 }
 
 
- */
-/* .skills-details .boxes{
+
+.skills-details .boxes{
   width: 45%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-} */
-/* .skills-details .box{
+} 
+.skills-details .box{
   width: calc(100% / 2 - 20px);
   margin: 20px 0;
   float: left;
-} */
-/* .skills-details .boxes .topic{
+} 
+.skills-details .boxes .topic{
   font-size: 20px;
   color: #4070f4;
 }
@@ -361,14 +361,14 @@ section .button button:hover{
 .skills-details .boxes .per{
   font-size: 60px;
   color: #4070f4;
-} */
+} 
 
 /* My Services CSS */
 .services .boxes{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-}
+} */
 .services .boxes .box{
   margin: 20px 0;
   width: calc(100% / 3 - 20px);
